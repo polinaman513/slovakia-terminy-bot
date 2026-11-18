@@ -1,0 +1,1 @@
+# slovakia-terminy-bot
